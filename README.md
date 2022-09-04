@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, je m'appelle Gaetan</h1>
 <h3 align="center">Développeur Web Full Stack</h3>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaetan-CRISTINA&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ga%c3%abtan-cristina-41b61096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ga%c3%abtan-cristina-41b61096" height="30" width="40" /></a>
@@ -11,3 +11,4 @@
 
 <br/>
 
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
