@@ -11,4 +11,4 @@
 
 <br/>
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=Gaetan-CRISTINA&show_icons=true&theme=radical)
