@@ -12,3 +12,4 @@
 <br/>
 
 ![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=Gaetan-CRISTINA&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaetan-CRISTINA&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
