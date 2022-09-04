@@ -11,5 +11,5 @@
 
 <br/>
 
-![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=Gaetan-CRISTINA&show_icons=true&theme=radical)
+![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=Gaetan-CRISTINA&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaetan-CRISTINA&hide=javascript,html)
